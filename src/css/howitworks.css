@@ -1,35 +1,9 @@
-body {
-  font-family: 'Roboto', sans-serif;
-  line-height: 1.5;
-  color: var(--dark-color);
-  background: rgba(174, 19, 50, 1);
-}
-
-* {
-  margin: 0;
-  padding: 0;
-}
-
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
-}
-
-.section {
-  width: 100%;
-  padding-top: 47px;
-  padding-bottom: 47px;
-}
-
 :root {
   --color-text_primary: #ffffff;
   --color-text_second: #000000;
-  --color-text3:rgba(174, 19, 50, 1);
+  --color-text3: rgba(174, 19, 50, 1);
   --color-secondary-background: #ffffff;
   --color-dark-backgorund: rgba(174, 19, 50, 1);
-  
-
 }
 
 .container {
