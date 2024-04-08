@@ -7,7 +7,9 @@
 }
 
 .container {
-  width: 1200px;
+  width: 1216px;
+  height: 329px;
+
   margin: 0 auto;
   padding: 0 15px;
   background-color: var(--color-dark-backgorund);
