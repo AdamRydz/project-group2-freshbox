@@ -14,8 +14,11 @@
   line-height: 24px;
   font-weight: 400;
 
-  color: #242424;
-  background-color: rgba(255, 255, 255, 0.87);
+  --color-text_primary: #ffffff;
+  --color-text_second: #000000;
+  --color-text3: rgba(174, 19, 50, 1);
+  --color-secondary-background: #ffffff;
+  --color-dark-backgorund: rgba(174, 19, 50, 1);
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
